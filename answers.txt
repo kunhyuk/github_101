@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kunhyuk Lee class-air
+1.Linus Torvalds
+2.Linux kernel
+3. 2005
+4. git init
+5. git push allows me to upload my code in github.
+6. it excludes unnecessary files from git.
+7. It allows me to copy repository into my repository. I'll use it when I'm not using my device.
+8. Clone is copying and pasteing repository into my device. I think I can have many clones but I don't need it.
+9. never
+10. true
+
